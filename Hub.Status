@@ -1,6 +1,3 @@
-local VERSION = "4_(Experimental Version)"
-
-Local Premium_Users = {
-2837257187
-1215400089
-}
+{{
+VERSION = "4_(Experimental Version)"
+}}
