@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Risk-dev/Elmo.dev/main/Lib/init"))();
+
 local X = Material.Load({
 	Title = "VoidHub - V" ..VERSION,
 	Style = 3,
